@@ -1,0 +1,9 @@
+{
+  "name": "gallery",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "~3.2.0",
+    "velocity": "~1.2.2",
+    "jquery-touchswipe": "~1.6.9"
+  }
+}
